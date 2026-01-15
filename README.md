@@ -7,7 +7,7 @@
 * [Local Eureka Service](#local-eureka-service)
 * [Feign](#feign)
 * [Grpc](#grpc)
-* [Gatewat](#gateway)
+* [Gateway](#gateway)
 * [Global Exception Handler](#global-exception-handler)
 * [Jwt](#jwt)
 * [Security](#security)
